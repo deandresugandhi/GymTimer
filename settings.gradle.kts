@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Gym Timer"
-include(":app")
+include(":wear")
+include(":mobile")
